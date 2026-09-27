@@ -1,0 +1,13 @@
+{
+  "model_name": "MultinomialNB",
+  "accuracy": 0.6,
+  "trained_at": "2026-09-25T17:09:15.753331Z",
+  "vectorizer": {
+    "max_features": 5000,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "stop_words": "english"
+  }
+}
